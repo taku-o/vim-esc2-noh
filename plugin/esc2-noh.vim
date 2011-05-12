@@ -8,7 +8,7 @@ let s:keepcpo = &cpo
 set cpo&vim
 " ---------------------------------------------------------------------
 
-nnoremap <ESC><ESC> :<C-U>set nohlsearch<CR>
+nnoremap <ESC><ESC> :nohlsearch<CR>
 
 " ---------------------------------------------------------------------
 let &cpo= s:keepcpo
