@@ -1,0 +1,7 @@
+https://github.com/taku-o/vim-esc2-noh
+
+sample code.
+plugin define this,
+
+    nnoremap <ESC><ESC> :nohlsearch<CR>
+
